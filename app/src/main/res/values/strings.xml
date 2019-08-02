@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InputListView</string>
+    <string name="hitung">Menghitung  2 Buah Bilangan</string>
+    <string name="bli_per">Masukan Bilangan Pertama</string>
+    <string name="bil_kedua">Masukan Bilangan Kedua</string>
+    <string name="btn_hitung">Hitung Bilangan</string>
+    <string name="tv_hasil">Hasil Penjumlahan</string>
+</resources>
