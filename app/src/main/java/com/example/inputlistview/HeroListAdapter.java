@@ -57,7 +57,7 @@ public class HeroListAdapter extends ArrayAdapter<Hero> {
         return view;
     }
 
-    //this method will remove the item from the list
+
     private void removeHero(final int position) {
         AlertDialog.Builder builder = new AlertDialog.Builder(context);
         builder.setTitle("Are you sure you want to delete this?");
