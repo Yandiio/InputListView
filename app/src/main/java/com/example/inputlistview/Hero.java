@@ -1,7 +1,14 @@
 package com.example.inputlistview;
 
-public class ListView {
+public class Hero {
     int image;
+
+    public Hero(int image, String nama, String team) {
+        this.image = image;
+        this.nama = nama;
+        this.team = team;
+    }
+
     String nama,team;
 
     public int getImage() {
